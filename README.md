@@ -11,4 +11,5 @@ Script for installing .update packages from TDS or Sitecore .update packages. It
 ##InstallZipPackage.aspx
 Script for installing normal .zip packages from Sitecore package designer or from modules. It is based on the [Sitecore-Deployment-Helpers](https://github.com/adoprog/Sitecore-Deployment-Helpers) but now with querystring parameter to give the install mode. And extra logging.
 
-
+##ParameterDrivenPublish.aspx and IsPublishTaskRunning.aspx 
+See [Sitecore Parameter driven publish deployment tool](https://github.com/jbluemink/Sitecore-Parameter-Driven-Publish)
