@@ -2,8 +2,17 @@
 
 Various Scripts for the "sitecore\admin" folder.
 
+##AddAdminUser.aspx
+Script for programmatically adding a Sitecore admin users, place this script in the webroot instead of the admin folder
+
+##AddEditorUser.aspx
+Script for programmatically adding a Sitecore editor users
+
+##ResetAdminPassword.aspx
+Script for programmatically unlock and reset the Sitecore admin password, place this script in the webroot instead of the admin folder
+
 ##FillDbWithExtranetUser.aspx
-Script for programmatically adding users to Sitecore, extranet users in bulk. See  [Bulk create Sitecore users](http://sitecore.stockpick.nl/english/bulk-create-sitecore-users/)
+Script for programmatically adding users to Sitecore, extranet users in bulk. See  [Bulk create Sitecore users](http://www.stockpick.nl/english/bulk-create-sitecore-users/)
 
 ##InstallUpdatePackage.aspx
 For Sitecore 6 and 7, not for Sitecore 8+
