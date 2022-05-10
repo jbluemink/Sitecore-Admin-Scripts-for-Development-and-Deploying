@@ -12,7 +12,7 @@ Script for programmatically adding a Sitecore editor users
 ## ResetAdminPassword.aspx
 For Sitecore 6, 7, 8. 9 and 10.
 Script for programmatically unlock and reset the Sitecore admin password, place this script in the webroot instead of the admin folder.
-and run /ResetAdminPassword.aspx the user with the name admin will reste to password b or whatever password you entered in the file. Useful if you forgot admin password after installation. (remove this file form webroot after use)
+and run /ResetAdminPassword.aspx the user with the name admin will reset to password b or whatever password you entered in the file. Useful if you forgot admin password after installation. (remove this file from the webroot after use!)
 
 ## FillDbWithExtranetUser.aspx
 Script for programmatically adding users to Sitecore, extranet users in bulk. See  [Bulk create Sitecore users](http://www.stockpick.nl/english/bulk-create-sitecore-users/)
