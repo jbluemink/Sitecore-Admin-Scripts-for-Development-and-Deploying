@@ -3,12 +3,14 @@
 Various Scripts for the "sitecore\admin" folder.
 
 ## AddAdminUser.aspx
+For Sitecore 6, 7, 8. 9 and 10.
 Script for programmatically adding a Sitecore admin users, place this script in the webroot instead of the admin folder
 
 ## AddEditorUser.aspx
 Script for programmatically adding a Sitecore editor users
 
 ## ResetAdminPassword.aspx
+For Sitecore 6, 7, 8. 9 and 10.
 Script for programmatically unlock and reset the Sitecore admin password, place this script in the webroot instead of the admin folder.
 and run /ResetAdminPassword.aspx the user with the name admin will reste to password b or whatever password you entered in the file. Useful if you forgot admin password after installation. (remove this file form webroot after use)
 
